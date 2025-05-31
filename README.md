@@ -1,6 +1,3 @@
-
-
-### STUDENT  
   
 
 ### <div align="center">I'm Sunny Eljohn. Fulltime student, currently studying Cybersecurity.</div>  
