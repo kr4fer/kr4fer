@@ -1,9 +1,6 @@
 
 
 ### STUDENT  
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/163456176?v=4" align="center" height="300" width="300" />
-</div>  
   
 
 ### <div align="center">I'm Sunny Eljohn. Fulltime student, currently studying Cybersecurity.</div>  
