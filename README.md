@@ -1,5 +1,5 @@
 <h1 align="center">This is Sunny Eljohn </h1>
-<h3 align="center">Taking up BSIT Major in Network and Cybersecurity</h3>
+<h3 align="center">Information Technology student at Mapúa University, specializing in Network and Cybersecurity</h3>
 
 - 🔭 I’m currently working on [MotorPH Payroll System with OOP feature](https://github.com/siejeihyung/MotorPH_OOP-Group.git)
 - 🌱 I’m currently learning **Frameworks and Web Development**
