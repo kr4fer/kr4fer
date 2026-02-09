@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MotorPH Payroll System with OOP feature](https://github.com/siejeihyung/MotorPH_OOP-Group.git)
 - 🌱 I’m currently learning **Frameworks and Web Development**
-- 📫 How to reach me **sanieljan17@gmail.com**
+- 📫 Contact me: **sanieljan17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
